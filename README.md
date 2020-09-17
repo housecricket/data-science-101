@@ -11,7 +11,7 @@ Data science interview questions - with answers
 ## General Questions
 ...
 
-## Questions by category
+## Questions by Category
 ...
 
 # Awesome Links
