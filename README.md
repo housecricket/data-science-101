@@ -6,12 +6,19 @@
 
 # Data Science Interviews
 
-Data science interview questions - with answers
+Data science interview questions - with answers.
+
+The answers are given by the community. Please create a PR (pull request) in the following cases.
+⋅⋅* If you know how to answer a question
+⋅⋅* If there's already an answer, but you can improve it
+⋅⋅* If you see a mistake
 
 ## General Questions
-...
+
+
 
 ## Questions by Category
+
 ...
 
 # Awesome Links
