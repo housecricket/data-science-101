@@ -13,7 +13,7 @@ Data science interview questions - with answers. The answers are given by the co
 
 ## General Questions
 
-It includes questions related to general knowledge such as data science, data scientist, machine learning, etc. Check it out at [general_questions.md]  (https://github.com/housecricket/data-science-101/blob/master/general_questions.md)
+It includes questions related to general knowledge such as data science, data scientist, machine learning, etc. Check it out at [general_questions.md](https://github.com/housecricket/data-science-101/blob/master/general_questions.md)
 
 ## Questions by Category
 
