@@ -17,7 +17,9 @@ It includes questions related to general knowledge such as data science, data sc
 
 ## Questions by Category
 
-...
+* Theoretical questions: linear models, trees, neural networks and others
+* Technical questions: SQL, R, Python, programming, etc
+* More to come
 
 # Awesome Links
 ...
